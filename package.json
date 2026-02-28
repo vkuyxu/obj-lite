@@ -1,0 +1,13 @@
+{
+  "name": "obj-lite-docs",
+  "version": "1.0.0",
+  "description": "Documentation site for obj-lite library",
+  "scripts": {
+    "dev": "vitepress dev ",
+    "build": "vitepress build ",
+    "preview": "vitepress preview "
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
