@@ -4,7 +4,6 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "obj-lite",
   description: "A lightweight utility library for object manipulation.",
-  base: "/obj-lite/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
