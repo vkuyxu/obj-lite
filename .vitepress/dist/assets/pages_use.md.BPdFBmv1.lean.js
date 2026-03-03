@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,ah as i}from"./chunks/framework.DXxwR5vc.js";const u=JSON.parse('{"title":"USE","description":"","frontmatter":{},"headers":[],"relativePath":"pages/use.md","filePath":"pages/use.md"}'),o={name:"pages/use.md"};function n(l,a,p,r,c,d){return t(),s("div",null,[...a[0]||(a[0]=[i("",6)])])}const _=e(o,[["render",n]]);export{u as __pageData,_ as default};
